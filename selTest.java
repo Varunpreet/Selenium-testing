@@ -1,4 +1,3 @@
-package test1;
 
 import org.junit.Assert;
 import org.openqa.selenium.By;  
