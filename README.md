@@ -1,4 +1,4 @@
-# Testing(Automation)
+# Testing(Automated)
 
 I have attempted to perform automated testing on the official website of The Sparks Foundation using Selenium and java.
 
